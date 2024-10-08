@@ -22,22 +22,26 @@ Table of Contents:
 
 
 Project Overview
+
 CloudJourney is an intuitive airline management system designed for airline staff and passengers alike. It provides an efficient way to manage flight bookings, customer data, schedules, and much more. The system is implemented using a 3-tier architecture and runs on a local XAMPP server, making use of PHP for server-side processing and MySQL for database management.
 
 Features:
 
 ✈️ Admin Panel:
+
 -Flight Management: Add, update, and delete flight details.
 -Booking Management: View and manage customer reservations.
 -User Management: Manage airline staff and customers.
 -Reports: View detailed reports on bookings, flights, and user activities.
 
 👨‍💻 User Features:
+
 Flight Search: Find available flights based on departure and destination.
 Booking System: Book flights and get instant confirmation.
 Profile Management: Update user information and view past bookings.
 
 💻 Backend Features:
+
 Database-Driven: All data is stored and retrieved from a MySQL database.
 Security: Password encryption for user login.
 Data Validation: Strong validation on user inputs to prevent SQL injection.
@@ -64,8 +68,9 @@ Move the project folder cloudjourney to the htdocs directory of your XAMPP insta
 Update Database Connection:
 
 Open config.php in the root folder and update the following:
+
 php
-Copy code
+
 $host = "localhost";
 $user = "root";
 $password = "";
