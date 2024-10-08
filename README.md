@@ -51,7 +51,7 @@ Follow these steps to get the project running on your local machine:
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/cloudjourney.git
+git clone https://github.com/yourusername/CloudJourney.git
 Start XAMPP:
 Download and install XAMPP if not already installed.
 Start Apache and MySQL from the XAMPP control panel.
