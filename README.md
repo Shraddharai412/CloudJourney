@@ -5,13 +5,21 @@ Welcome to CloudJourney, an Airline Management System developed to streamline an
 Table of Contents:
 
 -Project Overview
+
 -Features
+
 -Installation
+
 -Technologies Used
+
 -Usage
+
 -Database Schema
+
 -Contributing
+
 -Contact
+
 
 Project Overview
 CloudJourney is an intuitive airline management system designed for airline staff and passengers alike. It provides an efficient way to manage flight bookings, customer data, schedules, and much more. The system is implemented using a 3-tier architecture and runs on a local XAMPP server, making use of PHP for server-side processing and MySQL for database management.
